@@ -303,6 +303,9 @@ Google Cloud
     - ``google-europe-west1``
     - Europe, Belgium 
   * - Europe
+    - ``google-europe-west12``
+    - Europe, Italy 
+  * - Europe
     - ``google-europe-west2``
     - Europe, England 
   * - Europe
@@ -320,6 +323,12 @@ Google Cloud
   * - Europe
     - ``google-europe-west9``
     - Europe, France 
+  * - Middle East
+    - ``google-me-central1``
+    - Middle East, Qatar 
+  * - Middle East
+    - ``google-me-central2``
+    - Middle East, Saudi Arabia 
   * - Middle East
     - ``google-me-west1``
     - Middle East, Israel 
@@ -387,11 +396,20 @@ UpCloud
     - ``upcloud-fi-hel``
     - Europe, Finland 
   * - Europe
+    - ``upcloud-fi-hel1``
+    - Europe, Finland 
+  * - Europe
+    - ``upcloud-fi-hel2``
+    - Europe, Finland 
+  * - Europe
     - ``upcloud-nl-ams``
     - Europe, Netherlands 
   * - Europe
     - ``upcloud-pl-waw``
     - Europe, Poland 
+  * - Europe
+    - ``upcloud-se-sto``
+    - Europe, Sweden 
   * - North America
     - ``upcloud-us-chi``
     - United States, Illinois 
