@@ -1,9 +1,9 @@
-..
-    ``additional_backup_regions``
-    -----------------------------
-    *array*
 
-    **Additional Cloud Regions for Backup Replication** 
+``additional_backup_regions``
+-----------------------------
+*array*
+
+**Additional Cloud Regions for Backup Replication** 
 
 
 
@@ -12,6 +12,14 @@
 *array*
 
 **IP filter** Allow incoming connections from CIDR address block, e.g. '10.20.0.0/16'
+
+
+
+``service_log``
+---------------
+*['boolean', 'null']*
+
+**Service logging** Store logs for the service so that they are available in the HTTP API and console.
 
 
 
@@ -184,6 +192,14 @@
 *string*
 
 **Default ACL for pub/sub channels used when Redis user is created** Determines default pub/sub channels' ACL for new users if ACL is not supplied. When this option is not defined, all_channels is assumed to keep backward compatibility. This option doesn't affect Redis configuration acl-pubsub-default.
+
+
+
+``redis_version``
+-----------------
+*['string', 'null']*
+
+**Redis major version** 
 
 
 
